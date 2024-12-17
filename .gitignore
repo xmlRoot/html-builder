@@ -67,3 +67,5 @@ buildSrc/build
 
 .idea/**
 .run
+/input/
+/output/
